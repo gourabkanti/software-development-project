@@ -1,3 +1,7 @@
+//GOURAB KANTI SAHA
+//SEC:C
+//ROLL:2003158
+
 #include<iostream>
 using namespace std;
 const int m = 1000;
